@@ -1,0 +1,639 @@
+S_CITY,E_CITY,VACATION,DISTANCE,FARE
+Boston              MA,San Jose            CA,No,2682,402.02
+New York/Newark     NY,San Francisco       CA,No,2574,374.4
+New York/Newark     NY,San Francisco       CA,No,2574,374.4
+New York/Newark     NY,San Francisco       CA,No,2574,374.4
+Boston              MA,San Francisco       CA,No,2694,367.72
+Houston             TX,Philadelphia/Camden PA,No,1347,353.56
+Boston              MA,Houston             TX,No,1605,349.97
+Fort Lauderdale     FL,Baltimore/Wash Intl MD,Yes,921,116.54
+Houston             TX,New York/Newark     NY,No,1426,349.53
+Houston             TX,New York/Newark     NY,No,1426,349.53
+Las Vegas           NV,Baltimore/Wash Intl MD,Yes,2104,158.2
+Houston             TX,New York/Newark     NY,No,1426,349.53
+San Francisco       CA,Washington          DC,No,2428,347.82
+San Francisco       CA,Washington          DC,No,2428,347.82
+Denver              CO,Philadelphia/Camden PA,No,1568,335.55
+Philadelphia/Camden PA,San Francisco       CA,No,2523,326.76
+Los Angeles         CA,New York/Newark     NY,No,2467,326.47
+Orlando             FL,Baltimore/Wash Intl MD,Yes,788,106.11
+Los Angeles         CA,New York/Newark     NY,No,2467,326.47
+Los Angeles         CA,New York/Newark     NY,No,2467,326.47
+Dallas/Fort Worth   TX,San Jose            CA,No,1436,325.02
+Boston              MA,Dallas/Fort Worth   TX,No,1559,320.37
+Detroit             MI,San Francisco       CA,No,2084,314.88
+Tampa               FL,Baltimore/Wash Intl MD,Yes,846,106.77
+Boston              MA,Denver              CO,No,1755,311.46
+Dallas/Fort Worth   TX,New York/Newark     NY,No,1389,304.18
+Dallas/Fort Worth   TX,New York/Newark     NY,No,1389,304.18
+Dallas/Fort Worth   TX,New York/Newark     NY,No,1389,304.18
+Los Angeles         CA,Washington          DC,No,2300,303.82
+Los Angeles         CA,Washington          DC,No,2300,303.82
+New York/Newark     NY,Portland            OR,No,2444,302.33
+New York/Newark     NY,Portland            OR,No,2444,302.33
+New York/Newark     NY,Portland            OR,No,2444,302.33
+Boston              MA,Los Angeles         CA,No,2605,301.79
+New York/Newark     NY,San Diego           CA,No,2433,299.17
+New York/Newark     NY,San Diego           CA,No,2433,299.17
+New York/Newark     NY,San Diego           CA,No,2433,299.17
+Dallas/Fort Worth   TX,San Francisco       CA,No,1463,297.83
+Boston              MA,Seattle/Tacoma      WA,No,2489,297.61
+Houston             TX,Washington          DC,No,1213,297.2
+Houston             TX,Washington          DC,No,1213,297.2
+Detroit             MI,Los Angeles         CA,No,1988,295.49
+Minneapolis/St Paul MN,Philadelphia/Camden PA,No,979,295.46
+Chicago             IL,San Jose            CA,No,1837,294.18
+Chicago             IL,San Jose            CA,No,1837,294.18
+Los Angeles         CA,Philadelphia/Camden PA,No,2407,293.21
+Philadelphia/Camden PA,Phoenix             AZ,No,2083,291.78
+Chicago             IL,San Francisco       CA,No,1851,291.66
+Chicago             IL,San Francisco       CA,No,1851,291.66
+Boston              MA,San Diego           CA,No,2576,291.51
+New York/Newark     NY,Seattle/Tacoma      WA,No,2411,289.25
+New York/Newark     NY,Seattle/Tacoma      WA,No,2411,289.25
+New York/Newark     NY,Seattle/Tacoma      WA,No,2411,289.25
+Austin              TX,New York/Newark     NY,No,1515,287.23
+Austin              TX,New York/Newark     NY,No,1515,287.23
+Austin              TX,New York/Newark     NY,No,1515,287.23
+Las Vegas           NV,Colorado Springs    CO,Yes,602,57.62
+Detroit             MI,Minneapolis/St Paul MN,No,530,286.54
+Detroit             MI,Seattle/Tacoma      WA,No,1932,285.34
+Seattle/Tacoma      WA,Washington          DC,No,2317,281.06
+Seattle/Tacoma      WA,Washington          DC,No,2317,281.06
+Phoenix             AZ,Washington          DC,No,1970,279.83
+Phoenix             AZ,Washington          DC,No,1970,279.83
+Chicago             IL,Portland            OR,No,1749,279.61
+Chicago             IL,Portland            OR,No,1749,279.61
+Minneapolis/St Paul MN,New York/Newark     NY,No,1015,278.39
+Minneapolis/St Paul MN,New York/Newark     NY,No,1015,278.39
+Minneapolis/St Paul MN,New York/Newark     NY,No,1015,278.39
+San Diego           CA,Washington          DC,No,2259,273.83
+San Diego           CA,Washington          DC,No,2259,273.83
+New York/Newark     NY,San Antonio         TX,No,1577,273.53
+New York/Newark     NY,San Antonio         TX,No,1577,273.53
+New York/Newark     NY,San Antonio         TX,No,1577,273.53
+New York/Newark     NY,Phoenix             AZ,No,2148,273.12
+New York/Newark     NY,Phoenix             AZ,No,2148,273.12
+New York/Newark     NY,Phoenix             AZ,No,2148,273.12
+Dallas/Fort Worth   TX,Los Angeles         CA,No,1234,272.06
+Denver              CO,New York/Newark     NY,No,1624,270.36
+Denver              CO,New York/Newark     NY,No,1624,270.36
+Denver              CO,New York/Newark     NY,No,1624,270.36
+Atlanta             GA,Minneapolis/St Paul MN,No,904,269.43
+Denver              CO,San Jose            CA,No,943,263.48
+New York/Newark     NY,St Louis            MO,No,877,261.63
+New York/Newark     NY,St Louis            MO,No,877,261.63
+New York/Newark     NY,St Louis            MO,No,877,261.63
+Chicago             IL,Seattle/Tacoma      WA,No,1731,260.16
+Chicago             IL,Seattle/Tacoma      WA,No,1731,260.16
+Atlanta             GA,Fort Lauderdale     FL,Yes,578,105.1
+Boston              MA,Fort Lauderdale     FL,Yes,1229,121.09
+Chicago             IL,Fort Lauderdale     FL,Yes,1168,153.95
+Chicago             IL,Fort Lauderdale     FL,Yes,1168,153.95
+Dallas/Fort Worth   TX,Fort Lauderdale     FL,Yes,1118,207.84
+Detroit             MI,Fort Lauderdale     FL,Yes,1128,113.39
+Boston              MA,Fort Meyers         FL,Yes,1245,126.62
+Chicago             IL,Fort Meyers         FL,Yes,1108,136.68
+Chicago             IL,Fort Meyers         FL,Yes,1108,136.68
+Detroit             MI,Fort Meyers         FL,Yes,1088,108.15
+New York/Newark     NY,Salt Lake City      UT,No,1982,259.32
+New York/Newark     NY,Salt Lake City      UT,No,1982,259.32
+New York/Newark     NY,Salt Lake City      UT,No,1982,259.32
+Boston              MA,Minneapolis/St Paul MN,No,1114,258.85
+St Louis            MO,Washington          DC,No,699,258.37
+St Louis            MO,Washington          DC,No,699,258.37
+Las Vegas           NV,Honolulu (Intl)     HI,Yes,2764,183.19
+Los Angeles         CA,Honolulu (Intl)     HI,Yes,2555,167.16
+San Francisco       CA,Honolulu (Intl)     HI,Yes,2401,177.09
+Seattle/Tacoma      WA,Honolulu (Intl)     HI,Yes,2679,221.89
+Dallas/Fort Worth   TX,Washington          DC,No,1185,256.86
+Dallas/Fort Worth   TX,Washington          DC,No,1185,256.86
+Denver              CO,Detroit             MI,No,1139,256.48
+Dallas/Fort Worth   TX,San Diego           CA,No,1163,252.97
+Minneapolis/St Paul MN,San Diego           CA,No,1532,251.73
+New York/Newark     NY,Charlotte           NC,No,539,250.73
+New York/Newark     NY,Charlotte           NC,No,539,250.73
+New York/Newark     NY,Charlotte           NC,No,539,250.73
+Dallas/Fort Worth   TX,Philadelphia/Camden PA,No,1314,249.45
+Atlanta             GA,San Francisco       CA,No,2137,248.49
+San Francisco       CA,Baltimore/Wash Intl MD,No,2454,246.85
+Los Angeles         CA,Minneapolis/St Paul MN,No,1539,246.1
+Dallas/Fort Worth   TX,Detroit             MI,No,1001,245.28
+Chicago             IL,Dallas/Fort Worth   TX,No,805,244.5
+Fort Meyers         FL,Indianapolis        IN,Yes,943,105.73
+Las Vegas           NV,Indianapolis        IN,Yes,1588,114.13
+Chicago             IL,Dallas/Fort Worth   TX,No,805,244.5
+Houston             TX,San Francisco       CA,No,1637,241.04
+Chicago             IL,Hartford            CT,No,779,240.88
+Chicago             IL,Hartford            CT,No,779,240.88
+Orlando             FL,Indianapolis        IN,Yes,828,97.36
+Denver              CO,Washington          DC,No,1470,240.48
+Denver              CO,Washington          DC,No,1470,240.48
+Tampa               FL,Indianapolis        IN,Yes,844,99.43
+Atlanta             GA,Jacksonville        FL,Yes,280,87.59
+Chicago             IL,Jacksonville        FL,Yes,865,158.63
+Chicago             IL,Jacksonville        FL,Yes,865,158.63
+Fort Lauderdale     FL,Jacksonville        FL,Yes,303,114.93
+Dallas/Fort Worth   TX,Seattle/Tacoma      WA,No,1662,239.66
+Boston              MA,Charlotte           NC,No,722,237.8
+Minneapolis/St Paul MN,Washington          DC,No,916,235.1
+Minneapolis/St Paul MN,Washington          DC,No,916,235.1
+Memphis             TN,New York/Newark     NY,No,951,234.31
+Memphis             TN,New York/Newark     NY,No,951,234.31
+Memphis             TN,New York/Newark     NY,No,951,234.31
+Las Vegas           NV,Kansas City         MO,Yes,1140,78.24
+Chicago             IL,Charlotte           NC,No,589,234.15
+Albuquerque         NM,Las Vegas           NV,Yes,479,72.43
+Atlanta             GA,Las Vegas           NV,Yes,1744,143.62
+Austin              TX,Las Vegas           NV,Yes,1087,80.31
+Boston              MA,Las Vegas           NV,Yes,2372,133.35
+Burbank             CA,Las Vegas           NV,Yes,226,52.92
+Chicago             IL,Las Vegas           NV,Yes,1519,123.74
+Chicago             IL,Las Vegas           NV,Yes,1519,123.74
+Cleveland           OH,Las Vegas           NV,Yes,1831,159.12
+Columbus            OH,Las Vegas           NV,Yes,1769,115.84
+Dallas/Fort Worth   TX,Las Vegas           NV,Yes,1052,164.88
+Denver              CO,Las Vegas           NV,Yes,618,89.47
+Detroit             MI,Las Vegas           NV,Yes,1756,163.78
+Houston             TX,Las Vegas           NV,Yes,1222,112.99
+Los Angeles         CA,Las Vegas           NV,Yes,238,55.57
+Los Angeles         CA,Las Vegas           NV,Yes,238,55.57
+Chicago             IL,Charlotte           NC,No,589,234.15
+Chicago             IL,Los Angeles         CA,No,1751,233.78
+Chicago             IL,Los Angeles         CA,No,1751,233.78
+Atlanta             GA,Houston             TX,No,701,233.16
+Kansas City         MO,Minneapolis/St Paul MN,No,401,232.55
+Cleveland           OH,Los Angeles         CA,No,2062,231.97
+Boston              MA,Chicago             IL,No,854,230.87
+Boston              MA,Chicago             IL,No,854,230.87
+Dallas/Fort Worth   TX,Minneapolis/St Paul MN,No,857,230.71
+Dallas/Fort Worth   TX,Raleigh/Durham      NC,No,1065,230.56
+Dallas/Fort Worth   TX,Phoenix             AZ,No,870,229.84
+Fort Lauderdale     FL,Los Angeles         CA,Yes,2341,193.5
+Los Angeles         CA,Baltimore/Wash Intl MD,No,2329,228.99
+Dallas/Fort Worth   TX,Baltimore/Wash Intl MD,No,1220,228
+Atlanta             GA,Los Angeles         CA,No,1946,225.56
+Minneapolis/St Paul MN,San Francisco       CA,No,1589,224.17
+Kansas City         MO,New York/Newark     NY,No,1103,223.99
+Kansas City         MO,New York/Newark     NY,No,1103,223.99
+Kansas City         MO,New York/Newark     NY,No,1103,223.99
+Atlanta             GA,Miami               FL,Yes,595,97.93
+Boston              MA,Miami               FL,Yes,1259,158.5
+Chicago             IL,Miami               FL,Yes,1187,168.92
+Chicago             IL,Miami               FL,Yes,1187,168.92
+Dallas/Fort Worth   TX,Miami               FL,Yes,1116,185.11
+Detroit             MI,Miami               FL,Yes,1151,133.98
+Los Angeles         CA,Miami               FL,Yes,2336,207.83
+Las Vegas           NV,Milwaukee           WI,Yes,1521,146.36
+Chicago             IL,San Diego           CA,No,1724,219.63
+Chicago             IL,San Diego           CA,No,1724,219.63
+Chicago             IL,Providence          RI,No,842,219.38
+Orlando             FL,Milwaukee           WI,Yes,1066,104.87
+Chicago             IL,Providence          RI,No,842,219.38
+New York/Newark     NY,Richmond (Intl)     VA,No,287,218.54
+New York/Newark     NY,Richmond (Intl)     VA,No,287,218.54
+New York/Newark     NY,Richmond (Intl)     VA,No,287,218.54
+Atlanta             GA,Cincinnati          OH,No,371,215.83
+Albuquerque         NM,Washington          DC,No,1643,215.57
+Albuquerque         NM,Washington          DC,No,1643,215.57
+Chicago             IL,Philadelphia/Camden PA,No,673,215.06
+Chicago             IL,Philadelphia/Camden PA,No,673,215.06
+Las Vegas           NV,Minneapolis/St Paul MN,Yes,1301,171.67
+New York/Newark     NY,Nashville           TN,No,760,215.01
+New York/Newark     NY,Nashville           TN,No,760,215.01
+New York/Newark     NY,Nashville           TN,No,760,215.01
+Atlanta             GA,Denver              CO,No,1200,210.9
+Los Angeles         CA,St Louis            MO,No,1602,210.16
+Atlanta             GA,Boston              MA,No,939,210
+Detroit             MI,New York/Newark     NY,No,492,209.35
+Detroit             MI,New York/Newark     NY,No,492,209.35
+Detroit             MI,New York/Newark     NY,No,492,209.35
+Chicago             IL,Pittsburgh          PA,No,412,208.86
+Orlando             FL,Nashville           TN,Yes,615,87.8
+Chicago             IL,Pittsburgh          PA,No,412,208.86
+Albuquerque         NM,New York/Newark     NY,No,1822,208.79
+Albuquerque         NM,New York/Newark     NY,No,1822,208.79
+Albuquerque         NM,New York/Newark     NY,No,1822,208.79
+New Orleans         LA,New York/Newark     NY,No,1173,208.71
+New Orleans         LA,New York/Newark     NY,No,1173,208.71
+New Orleans         LA,New York/Newark     NY,No,1173,208.71
+Boston              MA,Baltimore/Wash Intl MD,No,364,207.76
+Denver              CO,St Louis            MO,No,785,207.17
+Detroit             MI,Washington          DC,No,391,205.96
+Detroit             MI,Washington          DC,No,391,205.96
+Cincinnati          OH,New York/Newark     NY,No,582,205
+Cincinnati          OH,New York/Newark     NY,No,582,205
+Cincinnati          OH,New York/Newark     NY,No,582,205
+Denver              CO,Houston             TX,No,866,204.68
+Atlanta             GA,San Diego           CA,No,1886,204.35
+Dallas/Fort Worth   TX,Charlotte           NC,No,940,203.17
+Minneapolis/St Paul MN,St Louis            MO,No,457,202.77
+Los Angeles         CA,New Orleans         LA,No,1678,202
+Austin              TX,San Jose            CA,No,1473,200.41
+San Diego           CA,Baltimore/Wash Intl MD,No,2290,200.2
+Atlanta             GA,Seattle/Tacoma      WA,No,2182,200.2
+Atlanta             GA,Phoenix             AZ,No,1591,200.09
+Atlanta             GA,St Louis            MO,No,471,199.8
+Boston              MA,Phoenix             AZ,No,2295,197.42
+Atlanta             GA,Cleveland           OH,No,561,197.1
+Minneapolis/St Paul MN,Phoenix             AZ,No,1279,195.91
+New York/Newark     NY,Indianapolis        IN,No,657,195.64
+New York/Newark     NY,Indianapolis        IN,No,657,195.64
+New York/Newark     NY,Indianapolis        IN,No,657,195.64
+Houston             TX,Los Angeles         CA,No,1379,195.28
+Chicago             IL,Raleigh/Durham      NC,No,636,193.67
+Chicago             IL,Raleigh/Durham      NC,No,636,193.67
+Detroit             MI,Phoenix             AZ,No,1682,191.66
+Cleveland           OH,Houston             TX,No,1117,191.63
+New York/Newark     NY,Milwaukee           WI,No,736,190.09
+New York/Newark     NY,Milwaukee           WI,No,736,190.09
+New York/Newark     NY,Milwaukee           WI,No,736,190.09
+Denver              CO,Portland            OR,No,992,188.46
+Dallas/Fort Worth   TX,St Louis            MO,No,556,188.11
+Minneapolis/St Paul MN,Seattle/Tacoma      WA,No,1402,186.96
+Boston              MA,Pittsburgh          PA,No,483,186.28
+Fort Lauderdale     FL,New York/Newark     NY,Yes,1068,123.18
+Fort Lauderdale     FL,New York/Newark     NY,Yes,1068,123.18
+Fort Lauderdale     FL,New York/Newark     NY,Yes,1068,123.18
+Fort Meyers         FL,New York/Newark     NY,Yes,1076,143.2
+Fort Meyers         FL,New York/Newark     NY,Yes,1076,143.2
+Fort Meyers         FL,New York/Newark     NY,Yes,1076,143.2
+Chicago             IL,Salt Lake City      UT,No,1259,185.65
+Chicago             IL,Salt Lake City      UT,No,1259,185.65
+Kansas City         MO,Washington          DC,No,935,182.56
+Kansas City         MO,Washington          DC,No,935,182.56
+Dallas/Fort Worth   TX,Nashville           TN,No,634,181.99
+Phoenix             AZ,Baltimore/Wash Intl MD,No,2001,181.16
+Jacksonville        FL,New York/Newark     NY,Yes,842,183.43
+Jacksonville        FL,New York/Newark     NY,Yes,842,183.43
+Jacksonville        FL,New York/Newark     NY,Yes,842,183.43
+Los Angeles         CA,Nashville           TN,No,1798,181.02
+New York/Newark     NY,Greensboro/High Pt  NC,No,457,180.85
+New York/Newark     NY,Greensboro/High Pt  NC,No,457,180.85
+Las Vegas           NV,New York/Newark     NY,Yes,2237,169.41
+Las Vegas           NV,New York/Newark     NY,Yes,2237,169.41
+Las Vegas           NV,New York/Newark     NY,Yes,2237,169.41
+New York/Newark     NY,Greensboro/High Pt  NC,No,457,180.85
+Cincinnati          OH,Chicago             IL,No,254,180.56
+Cincinnati          OH,Chicago             IL,No,254,180.56
+Columbus            OH,Los Angeles         CA,No,1996,179.23
+Atlanta             GA,Salt Lake City      UT,No,1588,179.13
+Detroit             MI,Houston             TX,No,1102,177.22
+Miami               FL,New York/Newark     NY,Yes,1097,124.92
+Miami               FL,New York/Newark     NY,Yes,1097,124.92
+Miami               FL,New York/Newark     NY,Yes,1097,124.92
+Baltimore/Wash Intl MD,Providence          RI,No,328,176.88
+Atlanta             GA,Hartford            CT,No,854,175.81
+Detroit             MI,Philadelphia/Camden PA,No,450,175.66
+Columbus            OH,New York/Newark     NY,No,475,174.87
+Columbus            OH,New York/Newark     NY,No,475,174.87
+Columbus            OH,New York/Newark     NY,No,475,174.87
+Atlanta             GA,Baltimore/Wash Intl MD,No,576,174.47
+Chicago             IL,Denver              CO,No,902,174.06
+Chicago             IL,Denver              CO,No,902,174.06
+Houston             TX,Baltimore/Wash Intl MD,No,1249,172.63
+Las Vegas           NV,Oakland             CA,Yes,407,58.03
+Denver              CO,Seattle/Tacoma      WA,No,1028,169.92
+New York/Newark     NY,Pittsburgh          PA,No,325,169.9
+New York/Newark     NY,Pittsburgh          PA,No,325,169.9
+New York/Newark     NY,Pittsburgh          PA,No,325,169.9
+New York/Newark     NY,Pittsburgh          PA,No,325,169.9
+Detroit             MI,Indianapolis        IN,No,241,169.58
+Atlanta             GA,Orlando             FL,Yes,404,92.78
+Boston              MA,Orlando             FL,Yes,1119,117.97
+Chicago             IL,Orlando             FL,Yes,995,121.67
+Chicago             IL,Orlando             FL,Yes,995,121.67
+Cincinnati          OH,Orlando             FL,Yes,756,138.88
+Cleveland           OH,Orlando             FL,Yes,902,140.9
+Columbus            OH,Orlando             FL,Yes,802,104.33
+Dallas/Fort Worth   TX,Orlando             FL,Yes,984,153.58
+Denver              CO,Orlando             FL,Yes,1545,201.43
+Detroit             MI,Orlando             FL,Yes,963,102.95
+Fort Lauderdale     FL,Orlando             FL,Yes,174,45.55
+Hartford            CT,Orlando             FL,Yes,1045,114.5
+Houston             TX,Orlando             FL,Yes,856,150.04
+Kansas City         MO,Orlando             FL,Yes,1064,121.35
+Las Vegas           NV,Orlando             FL,Yes,2035,117.59
+Los Angeles         CA,Orlando             FL,Yes,2216,258.43
+Miami               FL,Orlando             FL,Yes,192,96.53
+Miami               FL,Orlando             FL,Yes,192,96.53
+Minneapolis/St Paul MN,Orlando             FL,Yes,1308,204.62
+New Orleans         LA,Orlando             FL,Yes,541,92.35
+New York/Newark     NY,Orlando             FL,Yes,947,123.97
+New York/Newark     NY,Orlando             FL,Yes,947,123.97
+New York/Newark     NY,Orlando             FL,Yes,947,123.97
+Denver              CO,San Francisco       CA,No,960,168.96
+Atlanta             GA,Washington          DC,No,539,166.67
+Atlanta             GA,Washington          DC,No,539,166.67
+Cleveland           OH,Phoenix             AZ,No,1749,166.66
+Detroit             MI,Nashville           TN,No,466,166.25
+New Orleans         LA,Washington          DC,No,956,164.3
+New Orleans         LA,Washington          DC,No,956,164.3
+Fort Lauderdale     FL,Philadelphia/Camden PA,Yes,997,132.77
+Atlanta             GA,New York/Newark     NY,No,756,162.28
+Las Vegas           NV,Philadelphia/Camden PA,Yes,2179,165.9
+Atlanta             GA,New York/Newark     NY,No,756,162.28
+Miami               FL,Philadelphia/Camden PA,Yes,1026,152.67
+Atlanta             GA,New York/Newark     NY,No,756,162.28
+Orlando             FL,Philadelphia/Camden PA,Yes,872,114.28
+Chicago             IL,New York/Newark     NY,No,723,159.71
+Chicago             IL,New York/Newark     NY,No,723,159.71
+Chicago             IL,New York/Newark     NY,No,723,159.71
+Chicago             IL,New York/Newark     NY,No,723,159.71
+Chicago             IL,New York/Newark     NY,No,723,159.71
+Chicago             IL,New York/Newark     NY,No,723,159.71
+Columbus            OH,Phoenix             AZ,No,1673,158
+Salt Lake City      UT,Baltimore/Wash Intl MD,No,1866,157.5
+San Francisco       CA,Indianapolis        IN,No,1941,157.45
+Washington          DC,Colorado Springs    CO,No,1476,157.2
+Washington          DC,Colorado Springs    CO,No,1476,157.2
+Chicago             IL,Minneapolis/St Paul MN,No,342,156.93
+Chicago             IL,Minneapolis/St Paul MN,No,342,156.93
+Dallas/Fort Worth   TX,Denver              CO,No,638,155.81
+New York/Newark     NY,Colorado Springs    CO,No,1636,154.74
+Las Vegas           NV,Phoenix             AZ,Yes,248,53.07
+New York/Newark     NY,Colorado Springs    CO,No,1636,154.74
+New York/Newark     NY,Colorado Springs    CO,No,1636,154.74
+New York/Newark     NY,Raleigh/Durham      NC,No,426,154.73
+New York/Newark     NY,Raleigh/Durham      NC,No,426,154.73
+New York/Newark     NY,Raleigh/Durham      NC,No,426,154.73
+Phoenix             AZ,Milwaukee           WI,No,1461,154.06
+Los Angeles         CA,Indianapolis        IN,No,1815,153.5
+Orlando             FL,Phoenix             AZ,Yes,1851,162.53
+Chicago             IL,Phoenix             AZ,No,1446,152.1
+Chicago             IL,Phoenix             AZ,No,1446,152.1
+Norfolk/Va B/Pt/Ch  VA,New York/Newark     NY,No,291,150.13
+Norfolk/Va B/Pt/Ch  VA,New York/Newark     NY,No,291,150.13
+Norfolk/Va B/Pt/Ch  VA,New York/Newark     NY,No,291,150.13
+Houston             TX,Phoenix             AZ,No,1014,148.28
+Chicago             IL,Washington          DC,No,591,145.61
+Chicago             IL,Washington          DC,No,591,145.61
+Chicago             IL,Washington          DC,No,591,145.61
+Orlando             FL,Pittsburgh          PA,Yes,831,122.62
+Chicago             IL,Washington          DC,No,591,145.61
+Philadelphia/Camden PA,Raleigh/Durham      NC,No,346,144.86
+Greenville/Sprtnbg  SC,New York/Newark     NY,No,613,144.6
+Greenville/Sprtnbg  SC,New York/Newark     NY,No,613,144.6
+Greenville/Sprtnbg  SC,New York/Newark     NY,No,613,144.6
+Honolulu (Intl)     HI,Portland            OR,Yes,2603,205.51
+Las Vegas           NV,Portland            OR,Yes,760,69.19
+Boston              MA,Columbus            OH,No,633,143.59
+Cleveland           OH,New York/Newark     NY,No,408,143.44
+Cleveland           OH,New York/Newark     NY,No,408,143.44
+Cleveland           OH,New York/Newark     NY,No,408,143.44
+Anchorage           AK,Seattle/Tacoma      WA,No,1443,142.83
+Boston              MA,Raleigh/Durham      NC,No,606,140.07
+Denver              CO,Omaha               NE,No,474,139.81
+Chicago             IL,Houston             TX,No,939,139.56
+Chicago             IL,Houston             TX,No,939,139.56
+Boston              MA,Philadelphia/Camden PA,No,265,138.56
+Phoenix             AZ,Indianapolis        IN,No,1491,138.08
+Phoenix             AZ,St Louis            MO,No,1272,137.2
+Austin              TX,Chicago             IL,No,974,136.27
+Austin              TX,Chicago             IL,No,974,136.27
+Denver              CO,San Diego           CA,No,840,134.79
+New York/Newark     NY,Buffalo             NY,No,291,134.3
+New York/Newark     NY,Buffalo             NY,No,291,134.3
+New York/Newark     NY,Buffalo             NY,No,291,134.3
+Philadelphia/Camden PA,Pittsburgh          PA,No,264,134.09
+Orlando             FL,Providence          RI,Yes,1075,108.96
+Denver              CO,Minneapolis/St Paul MN,No,693,133.5
+Denver              CO,Phoenix             AZ,No,590,133.04
+Chicago             IL,New Orleans         LA,No,829,132.85
+Chicago             IL,New Orleans         LA,No,829,132.85
+Boston              MA,Washington          DC,No,400,132.79
+Boston              MA,Washington          DC,No,400,132.79
+New Orleans         LA,Baltimore/Wash Intl MD,No,992,132.05
+Los Angeles         CA,San Antonio         TX,No,1218,130.09
+Denver              CO,Los Angeles         CA,No,854,129.8
+Chicago             IL,San Antonio         TX,No,1038,128.36
+Chicago             IL,San Antonio         TX,No,1038,128.36
+Chicago             IL,Reno                NV,Yes,1680,125.9
+Chicago             IL,Reno                NV,Yes,1680,125.9
+Las Vegas           NV,Reno                NV,Yes,344,54.38
+Los Angeles         CA,Reno                NV,Yes,388,60.28
+Oakland             CA,Reno                NV,Yes,180,47.85
+Phoenix             AZ,Reno                NV,Yes,592,72.42
+Portland            OR,Reno                NV,Yes,444,44.89
+San Diego           CA,Reno                NV,Yes,488,68.59
+San Jose            CA,Reno                NV,Yes,188,42.47
+Seattle/Tacoma      WA,Reno                NV,Yes,569,45.11
+Houston             TX,Kansas City         MO,No,652,127.78
+New York/Newark     NY,Rochester           NY,No,254,127.38
+New York/Newark     NY,Rochester           NY,No,254,127.38
+New York/Newark     NY,Rochester           NY,No,254,127.38
+Atlanta             GA,Philadelphia/Camden PA,No,674,125.09
+Atlanta             GA,Raleigh/Durham      NC,No,356,123.44
+Detroit             MI,Kansas City         MO,No,639,123.27
+Las Vegas           NV,Sacramento          CA,Yes,387,56.91
+New York/Newark     NY,Syracuse            NY,No,199,120.84
+New York/Newark     NY,Syracuse            NY,No,199,120.84
+New York/Newark     NY,Syracuse            NY,No,199,120.84
+Atlanta             GA,New Orleans         LA,No,419,120.7
+New York/Newark     NY,Charleston          SC,No,637,118.95
+New York/Newark     NY,Charleston          SC,No,637,118.95
+New York/Newark     NY,Charleston          SC,No,637,118.95
+Hartford            CT,Washington          DC,No,315,117.35
+Las Vegas           NV,Salt Lake City      UT,Yes,359,57.4
+Hartford            CT,Washington          DC,No,315,117.35
+New York/Newark     NY,Baltimore/Wash Intl MD,No,181,117.23
+New York/Newark     NY,Baltimore/Wash Intl MD,No,181,117.23
+New York/Newark     NY,Baltimore/Wash Intl MD,No,181,117.23
+Boston              MA,New York/Newark     NY,No,183,116.78
+Boston              MA,New York/Newark     NY,No,183,116.78
+Boston              MA,New York/Newark     NY,No,183,116.78
+Dallas/Fort Worth   TX,Kansas City         MO,No,458,116.57
+Kansas City         MO,San Francisco       CA,No,1500,116.52
+Atlanta             GA,Kansas City         MO,No,685,116.18
+Los Angeles         CA,Kansas City         MO,No,1365,116
+Phoenix             AZ,Portland            OR,No,1001,114.95
+Kansas City         MO,Baltimore/Wash Intl MD,No,964,114.76
+New York/Newark     NY,Washington          DC,No,217,114.35
+Las Vegas           NV,San Antonio         TX,Yes,1074,86.71
+New York/Newark     NY,Washington          DC,No,217,114.35
+New York/Newark     NY,Washington          DC,No,217,114.35
+New York/Newark     NY,Washington          DC,No,217,114.35
+New York/Newark     NY,Washington          DC,No,217,114.35
+Orlando             FL,San Antonio         TX,Yes,1032,118.17
+New York/Newark     NY,Washington          DC,No,217,114.35
+Atlanta             GA,Dallas/Fort Worth   TX,No,734,113.99
+Chicago             IL,Birmingham          AL,No,576,113.5
+Chicago             IL,Birmingham          AL,No,576,113.5
+Atlanta             GA,Columbus            OH,No,445,113.2
+Houston             TX,Colorado Springs    CO,No,817,111.66
+Las Vegas           NV,San Diego           CA,Yes,258,53.14
+Boston              MA,Detroit             MI,No,616,110.42
+Denver              CO,Kansas City         MO,No,541,110.25
+Phoenix             AZ,Seattle/Tacoma      WA,No,1103,110
+Atlanta             GA,Indianapolis        IN,No,430,109.78
+Washington          DC,Raleigh/Durham      NC,No,225,109.44
+Washington          DC,Raleigh/Durham      NC,No,225,109.44
+Houston             TX,Nashville           TN,No,671,107.86
+Atlanta             GA,Chicago             IL,No,595,106.6
+Atlanta             GA,Chicago             IL,No,595,106.6
+Atlanta             GA,Detroit             MI,No,600,106.56
+New York/Newark     NY,Providence          RI,No,147,106.29
+New York/Newark     NY,Providence          RI,No,147,106.29
+New York/Newark     NY,Providence          RI,No,147,106.29
+Austin              TX,Phoenix             AZ,No,876,105.41
+Houston             TX,St Louis            MO,No,682,105.13
+Los Angeles         CA,Colorado Springs    CO,No,833,104.72
+Atlanta             GA,Louisville          KY,No,320,101.68
+Los Angeles         CA,Seattle/Tacoma      WA,No,957,101.64
+Columbus            OH,Washington          DC,No,310,100.95
+Columbus            OH,Washington          DC,No,310,100.95
+Las Vegas           NV,San Francisco       CA,Yes,416,72.58
+Seattle/Tacoma      WA,San Diego           CA,No,1056,100.8
+Miami               FL,San Francisco       CA,Yes,2579,261.67
+Houston             TX,Tulsa               OK,No,444,100.36
+St Louis            MO,Baltimore/Wash Intl MD,No,729,99.7
+Atlanta             GA,Charlotte           NC,No,227,97.96
+Burbank             CA,Seattle/Tacoma      WA,No,943,97.46
+Orlando             FL,San Francisco       CA,Yes,2443,261.74
+San Diego           CA,Portland            OR,No,933,96.58
+Houston             TX,Oklahoma City       OK,No,410,96.18
+Atlanta             GA,Pittsburgh          PA,No,525,93.55
+Phoenix             AZ,San Jose            CA,No,614,92.57
+Los Angeles         CA,Portland            OR,No,831,91.97
+Dallas/Fort Worth   TX,Colorado Springs    CO,No,592,91.83
+Seattle/Tacoma      WA,Portland            OR,No,135,88.46
+Phoenix             AZ,San Francisco       CA,No,646,85.52
+Kansas City         MO,Phoenix             AZ,No,1046,85.48
+Chicago             IL,Baltimore/Wash Intl MD,No,612,85.47
+Las Vegas           NV,San Jose            CA,Yes,387,55.16
+Chicago             IL,Baltimore/Wash Intl MD,No,612,85.47
+San Francisco       CA,Salt Lake City      UT,No,593,85.19
+Dallas/Fort Worth   TX,New Orleans         LA,No,455,84.53
+Albuquerque         NM,Dallas/Fort Worth   TX,No,573,84.46
+New York/Newark     NY,Sarasota/Bradenton  FL,Yes,1042,137.25
+New York/Newark     NY,Sarasota/Bradenton  FL,Yes,1042,137.25
+New York/Newark     NY,Sarasota/Bradenton  FL,Yes,1042,137.25
+Dallas/Fort Worth   TX,El Paso             TX,No,548,84.23
+Chicago             IL,Nashville           TN,No,401,84.21
+Chicago             IL,Nashville           TN,No,401,84.21
+Oakland             CA,Phoenix             AZ,No,638,84.15
+Burbank             CA,San Francisco       CA,No,332,83.74
+Omaha               NE,Phoenix             AZ,No,1031,81.32
+Seattle/Tacoma      WA,San Francisco       CA,No,676,81.28
+Salt Lake City      UT,Portland            OR,No,633,79.48
+Los Angeles         CA,San Francisco       CA,No,341,79.23
+Las Vegas           NV,Seattle/Tacoma      WA,Yes,869,70.16
+Nashville           TN,Baltimore/Wash Intl MD,No,587,79.17
+Phoenix             AZ,Sacramento          CA,No,629,78.67
+Corpus Christi      TX,Dallas/Fort Worth   TX,No,354,78.62
+Seattle/Tacoma      WA,Salt Lake City      UT,No,696,78.3
+Phoenix             AZ,Colorado Springs    CO,No,550,77.98
+Cleveland           OH,St Louis            MO,No,492,77.62
+Orlando             FL,Seattle/Tacoma      WA,Yes,2553,238.73
+Detroit             MI,St Louis            MO,No,447,77.46
+Chicago             IL,St Louis            MO,No,257,76.96
+Chicago             IL,St Louis            MO,No,257,76.96
+Houston             TX,New Orleans         LA,No,319,76.81
+Albuquerque         NM,Los Angeles         CA,No,673,76.79
+Chicago             IL,Kansas City         MO,No,407,75.71
+Chicago             IL,Kansas City         MO,No,407,75.71
+Chicago             IL,Columbus            OH,No,286,75.07
+Chicago             IL,Columbus            OH,No,286,75.07
+Chicago             IL,Detroit             MI,No,237,74.28
+Chicago             IL,Detroit             MI,No,237,74.28
+Las Vegas           NV,St Louis            MO,Yes,1379,141.48
+Phoenix             AZ,Salt Lake City      UT,No,495,73.69
+Sacramento          CA,Salt Lake City      UT,No,525,72.22
+Atlanta             GA,Memphis             TN,No,331,70.62
+Los Angeles         CA,San Diego           CA,No,114,70.41
+Los Angeles         CA,San Diego           CA,No,114,70.41
+Orlando             FL,St Louis            MO,Yes,869,142.98
+Oakland             CA,Salt Lake City      UT,No,586,69.95
+Denver              CO,Salt Lake City      UT,No,388,69.6
+Seattle/Tacoma      WA,Boise               ID,No,403,69.12
+Chicago             IL,Cleveland           OH,No,316,69.1
+Orlando             FL,Syracuse            NY,Yes,1054,119.9
+Miami               FL,Tallahassee         FL,Yes,399,105.45
+Atlanta             GA,Tampa               FL,Yes,414,87.35
+Boston              MA,Tampa               FL,Yes,1183,124.82
+Chicago             IL,Tampa               FL,Yes,1008,127.06
+Chicago             IL,Tampa               FL,Yes,1008,127.06
+Columbus            OH,Tampa               FL,Yes,834,106.65
+Dallas/Fort Worth   TX,Tampa               FL,Yes,936,200.69
+Detroit             MI,Tampa               FL,Yes,994,107.51
+Fort Lauderdale     FL,Tampa               FL,Yes,187,46.32
+Hartford            CT,Tampa               FL,Yes,1108,125.25
+Las Vegas           NV,Tampa               FL,Yes,1989,128.97
+Los Angeles         CA,Tampa               FL,Yes,2164,224.21
+Miami               FL,Tampa               FL,Yes,194,85.62
+New York/Newark     NY,Tampa               FL,Yes,1009,123.89
+New York/Newark     NY,Tampa               FL,Yes,1009,123.89
+New York/Newark     NY,Tampa               FL,Yes,1009,123.89
+Philadelphia/Camden PA,Tampa               FL,Yes,932,122.99
+Pittsburgh          PA,Tampa               FL,Yes,874,119.84
+St Louis            MO,Tampa               FL,Yes,865,135.76
+Las Vegas           NV,Tucson              AZ,Yes,357,49.77
+Chicago             IL,Cleveland           OH,No,316,69.1
+San Francisco       CA,Portland            OR,No,542,68.41
+Chicago             IL,Louisville          KY,No,276,68.06
+Chicago             IL,Louisville          KY,No,276,68.06
+Dallas/Fort Worth   TX,Houston             TX,No,234,67.78
+Chicago             IL,Omaha               NE,No,428,67.77
+Chicago             IL,Omaha               NE,No,428,67.77
+Austin              TX,Dallas/Fort Worth   TX,No,184,67.17
+Austin              TX,Houston             TX,No,138,67.1
+Boise               ID,Portland            OR,No,344,66.88
+Los Angeles         CA,Salt Lake City      UT,No,584,66.46
+Dallas/Fort Worth   TX,Oklahoma City       OK,No,180,66.14
+San Diego           CA,Salt Lake City      UT,No,617,65.91
+San Jose            CA,Portland            OR,No,569,65.84
+Sacramento          CA,Portland            OR,No,485,65.8
+Corpus Christi      TX,Houston             TX,No,184,65.31
+Dallas/Fort Worth   TX,Tulsa               OK,No,239,64.97
+Seattle/Tacoma      WA,Sacramento          CA,No,618,64.39
+Dallas/Fort Worth   TX,Amarillo            TX,No,312,64.11
+Houston             TX,San Antonio         TX,No,177,63.92
+Oakland             CA,Portland            OR,No,543,63.76
+Dallas/Fort Worth   TX,San Antonio         TX,No,242,63.69
+Fort Lauderdale     FL,Washington          DC,Yes,896,127.67
+Fort Lauderdale     FL,Washington          DC,Yes,896,127.67
+San Diego           CA,San Jose            CA,No,419,63.39
+Seattle/Tacoma      WA,San Jose            CA,No,702,63.3
+Oakland             CA,Seattle/Tacoma      WA,No,677,63.06
+Chicago             IL,Indianapolis        IN,No,167,62.63
+Chicago             IL,Indianapolis        IN,No,167,62.63
+Dallas/Fort Worth   TX,Lubbock             TX,No,283,60.87
+El Paso             TX,Phoenix             AZ,No,353,60.73
+Baltimore/Wash Intl MD,Louisville          KY,No,495,60.26
+Miami               FL,Washington          DC,Yes,924,147.8
+Miami               FL,Washington          DC,Yes,924,147.8
+Burbank             CA,San Jose            CA,No,296,59.8
+Dallas/Fort Worth   TX,Little Rock         AR,No,308,59.77
+Los Angeles         CA,San Jose            CA,No,305,58.98
+San Francisco       CA,San Diego           CA,No,455,58.68
+San Diego           CA,Sacramento          CA,No,472,57.57
+Burbank             CA,Phoenix             AZ,No,363,57.33
+Oakland             CA,San Diego           CA,No,448,57.29
+Albuquerque         NM,Phoenix             AZ,No,327,57.05
+Kansas City         MO,St Louis            MO,No,244,56.8
+Los Angeles         CA,Sacramento          CA,No,361,56.79
+Orlando             FL,Washington          DC,Yes,760,125.8
+Orlando             FL,Washington          DC,Yes,760,125.8
+Cleveland           OH,Baltimore/Wash Intl MD,No,309,56.76
+Burbank             CA,Oakland             CA,No,325,56.43
+San Diego           CA,Tucson              AZ,No,358,54.96
+Los Angeles         CA,Oakland             CA,No,334,53.8
+Burbank             CA,Sacramento          CA,No,349,52.53
+Los Angeles         CA,Phoenix             AZ,No,366,51.73
+Seattle/Tacoma      WA,Spokane             WA,No,225,51.3
+Spokane             WA,Portland            OR,No,281,50.38
+Phoenix             AZ,San Diego           CA,No,295,50.1
+Los Angeles         CA,Tucson              AZ,No,447,49.02
+Tampa               FL,Washington          DC,Yes,815,132.94
+Tampa               FL,Washington          DC,Yes,815,132.94
+Atlanta             GA,West Palm Beach     FL,Yes,546,104.11
+Boston              MA,West Palm Beach     FL,Yes,1193,127.83
+Chicago             IL,West Palm Beach     FL,Yes,1134,145.53
+Chicago             IL,West Palm Beach     FL,Yes,1134,145.53
+Hartford            CT,West Palm Beach     FL,Yes,1125,130.15
+New York/Newark     NY,West Palm Beach     FL,Yes,1030,129.63
+New York/Newark     NY,West Palm Beach     FL,Yes,1030,129.63
+New York/Newark     NY,West Palm Beach     FL,Yes,1030,129.63
+Philadelphia/Camden PA,West Palm Beach     FL,Yes,960,124.87
+Washington          DC,West Palm Beach     FL,Yes,858,129.62
+Washington          DC,West Palm Beach     FL,Yes,858,129.62
