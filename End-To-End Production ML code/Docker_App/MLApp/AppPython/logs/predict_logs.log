@@ -1,0 +1,14 @@
+2020-06-01 09:52:36,103::INFO::Loaded modle.pkl file::
+2020-06-01 09:52:36,120::INFO::Read test_cases.csv file::
+2020-06-01 09:52:36,122::INFO::Droped y attributed::
+2020-06-01 09:52:39,966::INFO::Predicted y_hat::
+2020-06-01 09:52:39,975::INFO::Accuracy = 0.867201::
+2020-06-01 09:52:40,005::INFO::Recall   = 0.958874::
+2020-06-01 09:52:40,005::INFO::Writing test_predict.csv file::
+2020-06-01 09:55:34,977::INFO::Loaded modle.pkl file::
+2020-06-01 09:55:34,994::INFO::Read test_cases.csv file::
+2020-06-01 09:55:34,996::INFO::Droped y attributed::
+2020-06-01 09:55:39,056::INFO::Predicted y_hat::
+2020-06-01 09:55:39,067::INFO::Accuracy = 0.867201::
+2020-06-01 09:55:39,097::INFO::Recall   = 0.958874::
+2020-06-01 09:55:39,097::INFO::Writing test_predict.csv file::
